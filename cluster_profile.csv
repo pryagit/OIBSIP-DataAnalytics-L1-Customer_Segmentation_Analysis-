@@ -1,0 +1,5 @@
+Cluster,Customer_Count,Average_Recency,Average_Frequency,Average_Monetary_Score,Average_Purchase_Value,Average_CLV,Customer_Percentage
+0,6957,256.82,3.18,0.23,956.65,4730.05,28.11
+1,8604,274.03,4.89,0.63,1463.77,8696.18,34.77
+2,3978,993.51,2.57,0.25,1207.2,4937.06,16.07
+3,5209,176.88,7.53,0.84,1414.06,12383.86,21.05
